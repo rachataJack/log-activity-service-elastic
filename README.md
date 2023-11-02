@@ -1,0 +1,1 @@
+# log-activity-service-elastic
